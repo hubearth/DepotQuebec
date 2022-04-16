@@ -748,11 +748,7 @@ v1.0.1 (2018-02-09) - https://videos.tva.ca/ nécessite TLS 1.2 seulement dispon
   </extension>
 </addon>
 
-<addon id="plugin.video.fabriqueculturelle"
-       name="La Fabrique Culturelle"
-       version="1.0.0"
-       provider-name="CB"
->
+<addon id="plugin.video.fabriqueculturelle" name="La Fabrique Culturelle" version="1.0.0" provider-name="CB">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="xbmc.json" version="6.0.0"/>
@@ -771,11 +767,7 @@ v1.0.1 (2018-02-09) - https://videos.tva.ca/ nécessite TLS 1.2 seulement dispon
     </extension>
 </addon>
 
-<addon id="plugin.video.fabriqueculturelle"
-       name="La Fabrique Culturelle"
-       version="1.0.1"
-       provider-name="dualB"
->
+<addon id="plugin.video.fabriqueculturelle" name="La Fabrique Culturelle" version="1.0.1" provider-name="dualB">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="xbmc.json" version="6.0.0"/>
@@ -1036,11 +1028,7 @@ Il vous suffit de vous connecter avec votre identifiant Espace client de Vidéot
   </extension>
 </addon>
 
-<addon id="plugin.video.telequebec"
-       name="Télé-Québec"
-       version="3.0.1"
-       provider-name="CB, SlySen"
->
+<addon id="plugin.video.telequebec" name="Télé-Québec" version="3.0.1" provider-name="CB, SlySen">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="xbmc.json" version="6.0.0"/>
@@ -1059,11 +1047,7 @@ Il vous suffit de vous connecter avec votre identifiant Espace client de Vidéot
     </extension>
 </addon>
 
-<addon id="plugin.video.telequebec"
-       name="Télé-Québec"
-       version="3.0.2"
-       provider-name="CB, SlySen"
->
+<addon id="plugin.video.telequebec" name="Télé-Québec" version="3.0.2" provider-name="CB, SlySen">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="xbmc.json" version="6.0.0"/>
@@ -1080,11 +1064,7 @@ Il vous suffit de vous connecter avec votre identifiant Espace client de Vidéot
     </extension>
 </addon>
 
-<addon id="plugin.video.telequebec"
-       name="Télé-Québec"
-       version="3.1.0"
-       provider-name="CB"
->
+<addon id="plugin.video.telequebec" name="Télé-Québec" version="3.1.0" provider-name="CB">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="xbmc.json" version="6.0.0"/>
@@ -1103,11 +1083,7 @@ Il vous suffit de vous connecter avec votre identifiant Espace client de Vidéot
     </extension>
 </addon>
 
-<addon id="plugin.video.telequebec"
-       name="Télé-Québec"
-       version="3.1.1"
-       provider-name="CB"
->
+<addon id="plugin.video.telequebec" name="Télé-Québec" version="3.1.1" provider-name="CB">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="xbmc.json" version="6.0.0"/>
@@ -1126,11 +1102,7 @@ Il vous suffit de vous connecter avec votre identifiant Espace client de Vidéot
     </extension>
 </addon>
 
-<addon id="plugin.video.telequebec"
-       name="Télé-Québec"
-       version="3.1.2"
-       provider-name="CB"
->
+<addon id="plugin.video.telequebec" name="Télé-Québec" version="3.1.2" provider-name="CB">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="xbmc.json" version="6.0.0"/>
@@ -1149,11 +1121,7 @@ Il vous suffit de vous connecter avec votre identifiant Espace client de Vidéot
     </extension>
 </addon>
 
-<addon id="plugin.video.telequebec"
-       name="Télé-Québec"
-       version="3.2.0"
-       provider-name="CB"
->
+<addon id="plugin.video.telequebec" name="Télé-Québec" version="3.2.0" provider-name="CB">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="xbmc.json" version="6.0.0"/>
@@ -1172,11 +1140,7 @@ Il vous suffit de vous connecter avec votre identifiant Espace client de Vidéot
     </extension>
 </addon>
 
-<addon id="plugin.video.telequebec"
-       name="Télé-Québec"
-       version="3.2.2"
-       provider-name="dualB"
->
+<addon id="plugin.video.telequebec" name="Télé-Québec" version="3.2.2" provider-name="dualB">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="xbmc.json" version="6.0.0"/>
@@ -1195,11 +1159,7 @@ Il vous suffit de vous connecter avec votre identifiant Espace client de Vidéot
     </extension>
 </addon>
 
-<addon id="plugin.video.telequebec"
-       name="Télé-Québec"
-       version="3.3.0"
-       provider-name="dualB"
->
+<addon id="plugin.video.telequebec" name="Télé-Québec" version="3.3.0" provider-name="dualB">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="xbmc.json" version="6.0.0"/>
@@ -1219,11 +1179,7 @@ Il vous suffit de vous connecter avec votre identifiant Espace client de Vidéot
     </extension>
 </addon>
 
-<addon id="plugin.video.telequebec"
-       name="Télé-Québec"
-       version="3.4.0"
-       provider-name="dualB"
->
+<addon id="plugin.video.telequebec" name="Télé-Québec" version="3.4.0" provider-name="dualB">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="xbmc.json" version="6.0.0"/>
@@ -1243,11 +1199,7 @@ Il vous suffit de vous connecter avec votre identifiant Espace client de Vidéot
     </extension>
 </addon>
 
-<addon id="plugin.video.telequebec"
-       name="Télé-Québec"
-       version="3.4.1"
-       provider-name="dualB"
->
+<addon id="plugin.video.telequebec" name="Télé-Québec" version="3.4.1" provider-name="dualB">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="xbmc.json" version="6.0.0"/>
